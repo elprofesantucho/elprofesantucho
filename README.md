@@ -2,7 +2,7 @@
 
 > **Profesor en Informática** | **Técnico Superior en Automatización, Control y Robótica** | **Especializando en Ciencia de Datos (UNLaM)**
 
----
+
 
 ### Perfil y Enfoque Profesional
 
@@ -32,12 +32,3 @@ Procesamiento analítico a gran escala para la estructuración, limpieza y model
 #### 3. Visión Artificial y Sistemas Autónomos (Robótica)
 Implementación de modelos de detección de objetos en tiempo real (YOLO) optimizados mediante OpenVINO sobre hardware Intel, aplicados al desarrollo de sistemas de navegación autónoma y procesamiento de video complejo.
 
----
-
-### Docencia y Gestión Técnica
-
-* **Instituciones:** Escuela Secundaria Técnica 14 e Instituto Joaquín V. González.
-* **Cátedras:** Laboratorio de Sistemas Operativos y Diseño de Sistemas.
-* **Orientación:** Integración de metodologías de gestión de proyectos (Scrum, Kanban) y tecnologías de desarrollo profesional en las aulas técnicas.
-
----
